@@ -1,7 +1,7 @@
 # SYNERGIA-A_MULTI_DOCUMENT_CHAT_BOT
 
 This is an Interactive Multiple Document Chat Bot built using **Streamlit**, **LangChain**, **Huggingface**, and **OpenAI**.
-
+<img src="https://github.com/Frontend-Developer-ui/SYNERGIA-A_MULTI_DOCUMENT_CHAT_BOT/blob/main/Screenshot%202023-11-17%20143148.png" alt="Welcome Page"/>
 
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
